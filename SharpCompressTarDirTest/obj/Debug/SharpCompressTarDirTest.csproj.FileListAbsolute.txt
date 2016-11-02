@@ -1,0 +1,6 @@
+C:\Code\SharpCompressTarDirTest\SharpCompressTarDirTest\bin\Debug\SharpCompressTarDirTest.exe.config
+C:\Code\SharpCompressTarDirTest\SharpCompressTarDirTest\bin\Debug\SharpCompressTarDirTest.exe
+C:\Code\SharpCompressTarDirTest\SharpCompressTarDirTest\bin\Debug\SharpCompressTarDirTest.pdb
+C:\Code\SharpCompressTarDirTest\SharpCompressTarDirTest\obj\Debug\SharpCompressTarDirTest.csprojResolveAssemblyReference.cache
+C:\Code\SharpCompressTarDirTest\SharpCompressTarDirTest\obj\Debug\SharpCompressTarDirTest.exe
+C:\Code\SharpCompressTarDirTest\SharpCompressTarDirTest\obj\Debug\SharpCompressTarDirTest.pdb
